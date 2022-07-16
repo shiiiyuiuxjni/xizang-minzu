@@ -1,0 +1,25 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: 西藏民族地方与祖国关系史
+  version: 1.0
+  folders:
+
+  - title: 第一章
+    output: web
+    folderitems:
+
+    - title: 第一章 13世纪以前西藏地方与祖国关系
+      output: web
+      url: /xzmz_ch1.html
+
+  - title: 第二章
+    output: web
+    folderitems:
+
+    - title: 第二章 xxx
+      output: web
+      url: /xzmz_ch2.html
+
+# Copyright 2021 Google LLC

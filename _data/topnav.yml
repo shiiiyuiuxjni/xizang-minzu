@@ -1,0 +1,20 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/shiiiyuiuxjni/xizang-minzu
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: 所有笔记本
+      folderitems:
+        - title: 西藏民族地方与祖国关系史
+          url: /xzmz_ch1.html
+        - title: 第二本笔记本
+          url: /xxx_xxx.html
+
+# Copyright 2021 Google LLC
