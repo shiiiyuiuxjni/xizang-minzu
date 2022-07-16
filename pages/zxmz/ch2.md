@@ -1,7 +1,7 @@
 ---
 title: 第二讲元代西藏地方和祖国关系
 sidebar: xzmz
-permalink: xzmz_ch2.htm1
+permalink: xzmz_ch2.html
 folder: xzmz
 ---
 
