@@ -190,3 +190,6 @@ folder: xzmz
 开办学校，培养人才
 
 开设译书局，创办藏文报
+
+{% include links.html %}
+
