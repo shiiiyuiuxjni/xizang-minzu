@@ -28,7 +28,7 @@ entries:
 
     - title: 第三章 明代西藏地方和祖国关系
       output: web
-      url: /xzmz_ch2.html
+      url: /xzmz_ch3.html
 
   - title: 第四章
     output: web
@@ -36,7 +36,7 @@ entries:
 
     - title: 第四章 清朝时期西藏地方和祖国关系
       output: web
-      url: /xzmz_ch2.html
+      url: /xzmz_ch4.html
 
   - title: 第五章
     output: web
@@ -44,7 +44,7 @@ entries:
 
     - title: 第五章 民国时期西藏地方和祖国关系
       output: web
-      url: /xzmz_ch2.html
+      url: /xzmz_ch5.html
 
   - title: 第六章
     output: web
@@ -52,6 +52,6 @@ entries:
 
     - title: 第六章 西藏地方和祖国关系的新篇章
       output: web
-      url: /xzmz_ch2.html
+      url: /xzmz_ch6.html
 
 # Copyright 2021 Google LLC
