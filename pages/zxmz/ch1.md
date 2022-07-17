@@ -1,5 +1,5 @@
 ---
-title: 第一讲13世纪以前西藏地方与祖国关系
+title: 第一讲13世纪以前西藏地方和祖国关系
 sidebar: xzmz
 permalink: xzmz_ch1.html
 folder: xzmz
