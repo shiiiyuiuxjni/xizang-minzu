@@ -10,7 +10,7 @@ entries:
     output: web
     folderitems:
 
-    - title: 第一章 13世纪以前西藏地方与祖国关系
+    - title: 第一章 13世纪以前西藏地方和祖国关系
       output: web
       url: /xzmz_ch1.html
 
@@ -19,6 +19,38 @@ entries:
     folderitems:
 
     - title: 第二章 元代西藏地方和祖国关系
+      output: web
+      url: /xzmz_ch2.html
+
+  - title: 第三章
+    output: web
+    folderitems:
+
+    - title: 第三章 明代西藏地方和祖国关系
+      output: web
+      url: /xzmz_ch2.html
+
+  - title: 第四章
+    output: web
+    folderitems:
+
+    - title: 第四章 清朝时期西藏地方和祖国关系
+      output: web
+      url: /xzmz_ch2.html
+
+  - title: 第五章
+    output: web
+    folderitems:
+
+    - title: 第五章 民国时期西藏地方和祖国关系
+      output: web
+      url: /xzmz_ch2.html
+
+  - title: 第六章
+    output: web
+    folderitems:
+
+    - title: 第六章 西藏地方和祖国关系的新篇章
       output: web
       url: /xzmz_ch2.html
 
